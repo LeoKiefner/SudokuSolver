@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrutforceSudoku", "BrutforceSudoku.csproj", "{8090B454-9797-44E2-9369-4E4CCAFF8986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8090B454-9797-44E2-9369-4E4CCAFF8986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8090B454-9797-44E2-9369-4E4CCAFF8986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8090B454-9797-44E2-9369-4E4CCAFF8986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8090B454-9797-44E2-9369-4E4CCAFF8986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B046AE-D4BF-4368-B304-E3F531FBD85F}
+	EndGlobalSection
+EndGlobal

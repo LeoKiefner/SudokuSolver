@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\bin\Debug\net6.0\Sudoku Brutforce.exe
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\bin\Debug\net6.0\Sudoku Brutforce.deps.json
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\bin\Debug\net6.0\Sudoku Brutforce.runtimeconfig.json
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\bin\Debug\net6.0\Sudoku Brutforce.dll
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\bin\Debug\net6.0\Sudoku Brutforce.pdb
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.dll
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\refint\Sudoku Brutforce.dll
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.pdb
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\Sudoku Brutforce.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Sudoku Brutforce\obj\Debug\net6.0\ref\Sudoku Brutforce.dll

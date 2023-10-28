@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\bin\Debug\net6.0\Test sudoku.exe
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\bin\Debug\net6.0\Test sudoku.deps.json
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\bin\Debug\net6.0\Test sudoku.runtimeconfig.json
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\bin\Debug\net6.0\Test sudoku.dll
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\bin\Debug\net6.0\Test sudoku.pdb
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.dll
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\refint\Test sudoku.dll
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.pdb
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\Test sudoku.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Universite\SAE S1 Prog Web\Test sudoku\obj\Debug\net6.0\ref\Test sudoku.dll
